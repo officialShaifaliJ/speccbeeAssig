@@ -13,10 +13,12 @@
     border: 1px dashed grey;
     border-radius: 8px; 
     cursor: pointer;
+    margin: 20px;
   }
   .card:hover{
     width: 250px;
-    padding: 15px;
+    padding: 5px;
+    margin: 10px;
   }
   
   .img1 {
